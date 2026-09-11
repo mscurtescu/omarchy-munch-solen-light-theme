@@ -60,3 +60,5 @@ The wallpaper and `preview.png` are a reproduction of Edvard Munch, *The Sun* (*
 **Inspiration (not the file)** — [@impression_ists, 2026-09-06](https://x.com/impression_ists/status/2096576469157699587).
 
 **Palette roles** — [@MeditateColor, 2026-09-06](https://x.com/MeditateColor/status/2096619280376938824). Hexes were retargeted onto the UiO scan; their annotated graphics are not shipped.
+
+Issues for both Munch Solen themes live in the [dark repo](https://github.com/mscurtescu/omarchy-munch-solen-dark-theme) (shared beads tracker).
