@@ -1,6 +1,6 @@
 # Munch Solen Light — an Omarchy theme
 
-A light Omarchy theme built from Edvard Munch’s Aula mural *The Sun* (*Solen*, 1911). Straw halo is the page; rock cleft is the ink; cadmium rays mark focus. Sibling of [Munch Solen Dark](https://github.com/mscurtescu/omarchy-munch-solen-dark-theme).
+A light Omarchy theme built from Edvard Munch’s Aula mural *The Sun* (*Solen*, 1911). Straw halo is the page; rock cleft is the ink; cadmium rays mark focus. Sibling of [Munch Solen Dark](https://github.com/mscurtescu/omarchy-munch-solen-dark-theme). Design notes: [DESIGN.md](DESIGN.md).
 
 ![Munch Solen Light theme preview](preview.png)
 
@@ -45,20 +45,10 @@ Semantic roles in `colors.toml` are the source of truth; `color0`–`color15` mi
 
 Same Aula JPEG as the dark sibling (3840×2238, museum frame cropped). Cover-scaling on a 3:2 panel crops the sides and keeps the sun.
 
-This image is **not** MIT. See [License](#license).
+This image is **not** MIT — see [Licensing](DESIGN.md#licensing-split).
 
 ## License
 
-Original theme files (configs, this README) are MIT. See `LICENSE`.
-
-The wallpaper and `preview.png` are a reproduction of Edvard Munch, *The Sun* (*Solen*), 1911, University of Oslo Aula (UiO.K.01399, Woll 970). Photograph © Universitetet i Oslo, [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Full credit: `backgrounds/NOTICE`.
-
-## Credits
-
-**Wallpaper** — Edvard Munch, *The Sun* (*Solen*), 1911. Photograph © Universitetet i Oslo. [Terms](https://www.uio.no/om/kultur/kunstsamlingen/kopirett.html).
-
-**Inspiration (not the file)** — [@impression_ists, 2026-09-06](https://x.com/impression_ists/status/2096576469157699587).
-
-**Palette roles** — [@MeditateColor, 2026-09-06](https://x.com/MeditateColor/status/2096619280376938824). Hexes were retargeted onto the UiO scan; their annotated graphics are not shipped.
+Original theme files (configs, this README) are MIT. See `LICENSE`. Artwork licensing: [DESIGN.md#licensing-split](DESIGN.md#licensing-split). Full credits: [DESIGN.md#credits](DESIGN.md#credits).
 
 Issues for both Munch Solen themes live in the [dark repo](https://github.com/mscurtescu/omarchy-munch-solen-dark-theme) (shared beads tracker).
