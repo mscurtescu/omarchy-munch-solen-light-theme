@@ -1,0 +1,150 @@
+# Munch Solen Light shell surfaces.
+#
+# The bar is straw paper, translucent enough for the mural to glow through.
+# Cards sit on a slightly shaded halo. Cadmium marks focus and alerts;
+# cleft indigo is type. Borders share the Hyprland ray gradient.
+
+[bar]
+background       = "#F7EED7"
+background-alpha = 0.90
+text             = "#1A1E32"
+active           = "#C44838"
+scale-with-font  = true
+size-horizontal  = 26
+size-vertical    = 28
+
+[hyprland]
+active-border            = "rgba(c44838ee) rgba(c8b040ee) rgba(7a6e3add) 90deg"
+active-border-foreground = "rgba(c8b040ee) rgba(7a6e3add) 90deg"
+active-border-alpha      = 1.0
+active-border-width      = 2
+
+[controls]
+normal-color        = "#1A1E32"
+normal-fill-alpha   = 0.04
+normal-border       = "#7C6C5B"
+normal-border-width = 1
+normal-border-alpha = 0.40
+
+hover-cursor-color        = "#0E101C"
+hover-cursor-fill-alpha   = 0.08
+hover-cursor-border       = "#C8B040"
+hover-cursor-border-width = 1
+hover-cursor-border-alpha = 0.70
+
+focus-color        = "#0E101C"
+focus-fill-alpha   = 0.10
+focus-border       = "hyprland.active-border"
+focus-border-width = 1
+focus-border-alpha = 0.90
+
+selected-color        = "#0E101C"
+selected-fill-alpha   = 0.12
+selected-border       = "#C44838"
+selected-border-width = 0
+selected-border-alpha = 0.90
+
+pressed-fill-alpha   = 0.18
+selection-fill-alpha = 0.28
+
+[spacing]
+scale = 1.0
+scale-with-font = true
+
+[font]
+base-size = 12
+
+[popups]
+background       = "#EFE2BF"
+background-alpha = 0.96
+text             = "#1A1E32"
+border           = "hyprland.active-border"
+border-alpha     = 0.90
+border-width     = 2
+
+[tooltip]
+background       = "#FBF4E4"
+background-alpha = 0.97
+text             = "#1A1E32"
+border           = "hyprland.active-border-foreground"
+border-alpha     = 0.70
+border-width     = 1
+
+[notifications]
+background       = "#EFE2BF"
+background-alpha = 0.96
+text             = "#1A1E32"
+border           = "hyprland.active-border"
+border-alpha     = 0.90
+border-width     = 2
+countdown        = "#C44838"
+
+[launcher]
+background                = "#EFE2BF"
+background-alpha          = 0.96
+text                      = "#1A1E32"
+border                    = "hyprland.active-border"
+border-alpha              = 0.92
+border-width              = 2
+scrim                     = "#1A1E32"
+scrim-alpha               = 0.28
+selected-background       = "#C44838"
+selected-background-alpha = 0.14
+selected-text             = "#0E101C"
+selected-border           = "#C44838"
+selected-border-alpha     = 0.90
+selected-border-width     = 0
+selected-border-width-left = 3
+
+[menu]
+background                = "#EFE2BF"
+background-alpha          = 0.96
+text                      = "#1A1E32"
+border                    = "hyprland.active-border"
+border-alpha              = 0.92
+border-width              = 2
+scrim                     = "#1A1E32"
+scrim-alpha               = 0.28
+selected-background       = "#C44838"
+selected-background-alpha = 0.14
+selected-text             = "#0E101C"
+selected-border           = "#C44838"
+selected-border-alpha     = 0.90
+selected-border-width     = 0
+selected-border-width-left = 3
+
+[polkit]
+background       = "#FBF4E4"
+background-alpha = 0.98
+text             = "#1A1E32"
+text-error       = "#B84838"
+border           = "hyprland.active-border"
+border-error     = "#B84838"
+border-alpha     = 0.96
+border-width     = 2
+scrim            = "#1A1E32"
+scrim-alpha      = 0.32
+accent           = "#C44838"
+
+[lock]
+background       = "#F7EED7"
+background-alpha = 0.88
+text             = "#1A1E32"
+placeholder      = "#7C6C5B"
+text-error       = "#B84838"
+border           = "hyprland.active-border"
+border-active    = "hyprland.active-border"
+border-error     = "#B84838"
+border-alpha     = 0.96
+border-width     = 2
+selection        = "#C44838"
+selection-alpha  = 0.35
+
+[image-picker]
+scrim                   = "#1A1E32"
+scrim-alpha             = 0.30
+text                    = "#1A1E32"
+selected-border         = "#C44838"
+selected-border-alpha   = 1.0
+unselected-border       = "#7C6C5B"
+unselected-border-alpha = 0.40

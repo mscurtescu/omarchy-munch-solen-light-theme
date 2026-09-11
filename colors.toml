@@ -1,0 +1,76 @@
+# Munch Solen Light — sampled from the UiO Aula TIFF of Edvard Munch, *The Sun*.
+#
+# Paper UI on the mural: straw halo as the page, rock cleft as ink, cadmium
+# rays for focus. Same scan and roles as munch-solen-dark; surfaces inverted.
+# Chrome yellow is darkened for type on paper — the wall still holds the bright disk.
+#
+# Semantic names are the source of truth. Compact aliases and color0–color15
+# mirror them for templates and older integrations.
+mode = "light"
+
+accent = "#C44838"
+hyprland_active_border = "rgba(c44838ee) rgba(c8b040ee) rgba(7a6e3add) 90deg"
+hyprland_inactive_border = "rgba(7c6c5baa)"
+
+background = "#F7EED7"
+dark_background = "#EFE2BF"
+darker_background = "#DBCBAA"
+lighter_background = "#FBF4E4"
+
+foreground = "#1A1E32"
+dark_foreground = "#7A6044"
+light_foreground = "#32364A"
+bright_foreground = "#0E101C"
+
+selection = "#EED0BA"
+muted = "#7C6C5B"
+
+red = "#B84838"
+orange = "#C85A38"
+yellow = "#7A6E3A"
+green = "#5E7241"
+cyan = "#5E6778"
+blue = "#4F5A72"
+magenta = "#795669"
+brown = "#7A6044"
+
+bright_red = "#C44838"
+bright_yellow = "#94843C"
+bright_green = "#6A8144"
+bright_cyan = "#6F798A"
+bright_blue = "#6A7A92"
+bright_magenta = "#795669"
+
+# Compact aliases
+bg = "#F7EED7"
+dark_bg = "#EFE2BF"
+darker_bg = "#DBCBAA"
+lighter_bg = "#FBF4E4"
+fg = "#1A1E32"
+dark_fg = "#7A6044"
+light_fg = "#32364A"
+bright_fg = "#0E101C"
+
+cursor = "#C44838"
+selection_foreground = "#1A1E32"
+selection_background = "#EED0BA"
+active_border_color = "#C44838"
+active_tab_background = "#EED0BA"
+
+# ANSI
+color0 = "#F7EED7"
+color1 = "#B84838"
+color2 = "#5E7241"
+color3 = "#7A6E3A"
+color4 = "#4F5A72"
+color5 = "#795669"
+color6 = "#5E6778"
+color7 = "#1A1E32"
+color8 = "#7C6C5B"
+color9 = "#C44838"
+color10 = "#6A8144"
+color11 = "#94843C"
+color12 = "#6A7A92"
+color13 = "#795669"
+color14 = "#6F798A"
+color15 = "#0E101C"

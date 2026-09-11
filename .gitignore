@@ -1,0 +1,4 @@
+# Archive master lives in the research pack; do not commit TIFFs.
+*.tif
+*.tiff
+*.tmp
