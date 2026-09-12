@@ -4,6 +4,7 @@ Follows the theme payload in this repo; released by pushing to `master`.
 
 ## [Unreleased]
 
+- README shows the mural photo (`wallpaper.webp`) beside the desktop shot.
 - Desktop-screenshot `preview.webp` (1800×1200) replaces the
   wallpaper-only `preview.png`.
 - Two detail-crop wallpapers (`2-solen-disk.jpg`, `3-solen-rays.jpg`).
