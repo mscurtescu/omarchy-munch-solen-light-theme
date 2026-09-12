@@ -4,6 +4,8 @@ Follows the theme payload in this repo; released by pushing to `master`.
 
 ## [Unreleased]
 
+- Desktop-screenshot `preview.webp` (1800×1200) replaces the
+  wallpaper-only `preview.png`.
 - Two detail-crop wallpapers (`2-solen-disk.jpg`, `3-solen-rays.jpg`).
 
 ## [0.1.0] - 2026-09-11

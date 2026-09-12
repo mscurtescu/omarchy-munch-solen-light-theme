@@ -44,10 +44,11 @@ linked under `~/.config/omarchy/themes/` and applied with
 
 ## Licensing split
 
-Original theme files (configs, docs) are MIT (`LICENSE`). The wallpaper and
-`preview.png` reproduce the UiO photograph, © Universitetet i Oslo, under
+Original theme files (configs, docs) are MIT (`LICENSE`). The wallpapers
+reproduce the UiO photograph, © Universitetet i Oslo, under
 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-— full credit in `backgrounds/NOTICE`. ShareAlike applies to adaptations of
+— full credit in `backgrounds/NOTICE`. `preview.webp` is a desktop
+screenshot of the applied theme. ShareAlike applies to adaptations of
 the photograph, not to the theme configuration files.
 
 ## Credits

@@ -2,7 +2,7 @@
 
 A light Omarchy theme built from Edvard Munch’s Aula mural *The Sun* (*Solen*, 1911). Straw halo is the page; rock cleft is the ink; cadmium rays mark focus. Sibling of [Munch Solen Dark](https://github.com/mscurtescu/omarchy-munch-solen-dark-theme). Design notes: [DESIGN.md](DESIGN.md).
 
-![Munch Solen Light theme preview](preview.png)
+![Munch Solen Light theme preview](preview.webp)
 
 ## Install
 
@@ -49,6 +49,6 @@ This image is **not** MIT — see [Licensing](DESIGN.md#licensing-split).
 
 ## License
 
-Original theme files (configs, this README) are MIT. See `LICENSE`. Artwork licensing: [DESIGN.md#licensing-split](DESIGN.md#licensing-split). Full credits: [DESIGN.md#credits](DESIGN.md#credits).
+Original theme files (configs, this README) are MIT. See `LICENSE`. The wallpapers are reproductions of Edvard Munch, *The Sun* (*Solen*), 1911 — photograph © Universitetet i Oslo, [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/); full credit in `backgrounds/NOTICE`. `preview.webp` is a desktop screenshot of the applied theme. Details: [DESIGN.md#licensing-split](DESIGN.md#licensing-split), [DESIGN.md#credits](DESIGN.md#credits).
 
 Issues for both Munch Solen themes live in the [dark repo](https://github.com/mscurtescu/omarchy-munch-solen-dark-theme) (shared beads tracker).
