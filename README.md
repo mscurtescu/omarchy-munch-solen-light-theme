@@ -45,6 +45,11 @@ Empty desktops on the detail crops:
 
 This image is **not** MIT — see [Licensing](DESIGN.md#licensing-split).
 
+## See also
+
+- **Sibling theme:** [Munch Solen Dark](https://github.com/mscurtescu/omarchy-munch-solen-dark-theme) — same mural, indigo rock-shadow dark variant.
+- **Island Bar:** [mscurtescu/omarchy-island-bar](https://github.com/mscurtescu/omarchy-island-bar) (`mscurtescu.island-bar`) — the bar replacement visible in the screenshots above: stock bar as three rounded islands on a transparent strip. Install with `omarchy plugin add https://github.com/mscurtescu/omarchy-island-bar.git --enable`.
+
 ## License
 
 Original theme files (configs, this README) are MIT. See `LICENSE`. The wallpapers are reproductions of Edvard Munch, *The Sun* (*Solen*), 1911 — photograph © Universitetet i Oslo, [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/); full credit in `backgrounds/NOTICE`. `preview.webp` is a desktop screenshot of the applied theme. Details: [DESIGN.md#licensing-split](DESIGN.md#licensing-split), [DESIGN.md#credits](DESIGN.md#credits).
