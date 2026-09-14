@@ -10,15 +10,6 @@ A light Omarchy theme built from Edvard Munch’s Aula mural *The Sun* (*Solen*,
 omarchy theme install https://github.com/mscurtescu/omarchy-munch-solen-light-theme.git
 ```
 
-Note: `omarchy theme install` stages git-cloned themes without `*.lua`, so the
-solar border in `hyprland.lua` is reported as ignored on that path. To get the
-border, link a local checkout instead and apply:
-
-```bash
-ln -sfn "$(pwd)" ~/.config/omarchy/themes/munch-solen-light
-omarchy theme set munch-solen-light
-```
-
 ## Palette
 
 | Role | Colour | From the mural |
