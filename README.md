@@ -1,6 +1,6 @@
 # Munch Solen Light — an Omarchy theme
 
-A light Omarchy theme built from Edvard Munch’s Aula mural *The Sun* (*Solen*, 1911). Straw halo is the page; rock cleft is the ink; cadmium rays mark focus. Sibling of [Munch Solen Dark](https://github.com/mscurtescu/omarchy-munch-solen-dark-theme). Design notes: [DESIGN.md](DESIGN.md).
+A light Omarchy theme built from Edvard Munch’s Aula mural *The Sun* (*Solen*, 1911). Straw halo is the page; rock cleft is the ink; cadmium rays mark focus. Design notes: [DESIGN.md](DESIGN.md).
 
 ![Munch Solen Light theme preview](preview.webp)
 
