@@ -1,9 +1,9 @@
 # Munch Solen Light — an Omarchy theme
 
+[![Omarchy Quattro](https://img.shields.io/badge/Omarchy-Quattro-111111)](https://omarchy.org)
 <a href="https://github.com/tcballard/omarchy-badges"><img src="https://raw.githubusercontent.com/tcballard/omarchy-badges/75975e5b5bf75e7ede3764bcd2950046f7abfe2c/badges/v1/omarchy-theme.svg" height="20" alt="Built for Omarchy: Theme"></a>
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Artwork: CC BY-NC-SA 4.0](https://img.shields.io/badge/Artwork-CC_BY--NC--SA_4.0-EF9421)](backgrounds/NOTICE)
-[![Omarchy Quattro](https://img.shields.io/badge/Omarchy-Quattro-111111)](https://omarchy.org)
 
 A light Omarchy theme built from Edvard Munch’s Aula mural *The Sun* (*Solen*, 1911). Straw halo is the page; rock cleft is the ink; cadmium rays mark focus. Design notes: [DESIGN.md](DESIGN.md).
 
