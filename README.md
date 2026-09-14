@@ -47,6 +47,11 @@ Semantic roles in `colors.toml` are the source of truth; `color0`–`color15` mi
 
 Same Aula JPEG as the dark sibling (3840×2238, museum frame cropped), plus the same `2-solen-disk.jpg` (sun-disk close-up) and `3-solen-rays.jpg` (ray texture) detail crops — cycle with `omarchy theme bg next`. Cover-scaling on a 3:2 panel crops the sides and keeps the sun. Above: empty desktop with the Island Bar on the mural.
 
+Empty desktops on the detail crops:
+
+![Sun-disk close-up](wallpaper-disk.webp)
+![Ray texture](wallpaper-rays.webp)
+
 This image is **not** MIT — see [Licensing](DESIGN.md#licensing-split).
 
 ## License

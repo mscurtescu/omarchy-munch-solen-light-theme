@@ -14,6 +14,7 @@ The JPEGs in this directory are downscaled sRGB derivatives of that TIFF:
 1-solen.jpg is the full mural (museum frame cropped); 2-solen-disk.jpg and
 3-solen-rays.jpg are detail crops of the same photograph.
 `wallpaper.webp` at the repo root (README display) is an empty-desktop
-screenshot showing the mural with the system bar.
+screenshot showing the mural with the system bar; `wallpaper-disk.webp`
+and `wallpaper-rays.webp` are the same kind of shot on the detail crops.
 ShareAlike applies to adaptations of the photograph. It does not license
 the theme configuration files sitting next to it.

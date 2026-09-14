@@ -4,6 +4,8 @@ Follows the theme payload in this repo; released by pushing to `master`.
 
 ## [Unreleased]
 
+- Empty-desktop shots for the detail crops (`wallpaper-disk.webp`,
+  `wallpaper-rays.webp`).
 - README shows the mural photo (`wallpaper.webp`) beside the desktop shot.
 - Desktop-screenshot `preview.webp` (1800×1200) replaces the
   wallpaper-only `preview.png`.
