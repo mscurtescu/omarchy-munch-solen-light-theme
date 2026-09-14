@@ -48,7 +48,7 @@ This image is **not** MIT — see [Licensing](DESIGN.md#licensing-split).
 ## See also
 
 - **Sibling theme:** [Munch Solen Dark](https://github.com/mscurtescu/omarchy-munch-solen-dark-theme) — same mural, indigo rock-shadow dark variant.
-- **Island Bar:** [mscurtescu/omarchy-island-bar](https://github.com/mscurtescu/omarchy-island-bar) (`mscurtescu.island-bar`) — the bar replacement visible in the screenshots above: stock bar as three rounded islands on a transparent strip. Install with `omarchy plugin add https://github.com/mscurtescu/omarchy-island-bar.git --enable`.
+- **Island Bar:** [mscurtescu/omarchy-island-bar](https://github.com/mscurtescu/omarchy-island-bar) — stock bar as three rounded islands on a transparent strip, visible in the screenshots above.
 
 ## License
 
