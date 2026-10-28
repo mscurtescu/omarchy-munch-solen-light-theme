@@ -7,6 +7,8 @@ Follows the theme payload in this repo; released by pushing to `master`.
 - Drop `hyprland.lua` from the install payload: Omarchy regenerates the
   Hyprland config from `colors.toml` for repo-installed themes. It stays as
   `hyprland.lua.example` for local checkouts.
+- Re-encode the three backgrounds as WebP (`-strip -resize '3840>' -quality 82`):
+  the set drops from 6.6 MB to 3.7 MB, with `1-solen` alone going 4.5 MB → 2.4 MB.
 
 ## [1.0.0] - 2026-09-14
 

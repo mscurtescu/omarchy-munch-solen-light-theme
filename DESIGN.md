@@ -7,9 +7,10 @@ and [Munch Solen Light](https://github.com/mscurtescu/omarchy-munch-solen-light-
 ## Source artwork
 
 Edvard Munch, *The Sun* (*Solen*), 1911. Oil on canvas, University of Oslo
-Aula (UiO.K.01399, Woll 970). The shipped wallpaper (`backgrounds/1-solen.jpg`,
-3840×2238 sRGB JPEG, museum frame cropped) is a downscaled derivative of the
-official University of Oslo reproduction photograph.
+Aula (UiO.K.01399, Woll 970). The shipped wallpaper
+(`backgrounds/1-solen.webp`, 3840×2238 sRGB WebP q82, museum frame cropped)
+is a downscaled derivative of the official University of Oslo reproduction
+photograph.
 
 ## Palette idea
 

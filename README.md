@@ -41,7 +41,7 @@ Semantic roles in `colors.toml` are the source of truth; `color0`–`color15` mi
 
 ![Munch Solen empty desktop](wallpaper.webp)
 
-Same Aula JPEG as the dark sibling (3840×2238, museum frame cropped), plus the same `2-solen-disk.jpg` (sun-disk close-up) and `3-solen-rays.jpg` (ray texture) detail crops — cycle with `omarchy theme bg next`. Cover-scaling on a 3:2 panel crops the sides and keeps the sun. Above: empty desktop with the Island Bar on the mural.
+Same Aula mural as the dark sibling (3840×2238, museum frame cropped, WebP q82), plus the same `2-solen-disk.webp` (sun-disk close-up) and `3-solen-rays.webp` (ray texture) detail crops — cycle with `omarchy theme bg next`. Cover-scaling on a 3:2 panel crops the sides and keeps the sun. Above: empty desktop with the Island Bar on the mural.
 
 Empty desktops on the detail crops:
 

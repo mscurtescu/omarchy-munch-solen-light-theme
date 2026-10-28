@@ -17,11 +17,17 @@ already-running apps (nvim, btop) keep the old palette until restarted.
 ## Wallpapers
 
 Derivatives of the UiO Aula photograph (CC BY-NC-SA 4.0, see
-`backgrounds/NOTICE`). ImageMagick recipes, quality 92, no upscaling:
+`backgrounds/NOTICE`). The repo ships WebP only; the quality-92 JPEG master
+stays out of the tree. Crops are cut from the master at fixed offsets, then
+everything is encoded without upscaling:
 
 ```bash
-magick 1-solen.jpg -crop 1700x1700+1262+90 +repage -quality 92 2-solen-disk.jpg
-magick 1-solen.jpg -crop 1600x1000+0+0 +repage -quality 92 3-solen-rays.jpg
+magick master-1-solen.jpg -crop 1700x1700+1262+90 +repage -quality 92 2-solen-disk.jpg
+magick master-1-solen.jpg -crop 1600x1000+0+0 +repage -quality 92 3-solen-rays.jpg
+
+for f in 1-solen 2-solen-disk 3-solen-rays; do
+  magick "$f.jpg" -strip -resize '3840>' -quality 82 -define webp:method=6 "backgrounds/$f.webp"
+done
 ```
 
 Generate once, copy byte-identical into both repos — both variants share
