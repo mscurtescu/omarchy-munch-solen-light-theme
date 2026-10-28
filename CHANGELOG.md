@@ -4,6 +4,10 @@ Follows the theme payload in this repo; released by pushing to `master`.
 
 ## [Unreleased]
 
+- Drop `hyprland.lua` from the install payload: Omarchy regenerates the
+  Hyprland config from `colors.toml` for repo-installed themes. It stays as
+  `hyprland.lua.example` for local checkouts.
+
 ## [1.0.0] - 2026-09-14
 
 First gallery-ready release.
