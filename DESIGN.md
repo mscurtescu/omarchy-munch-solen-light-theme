@@ -29,9 +29,8 @@ integrations. See `README.md` for the per-variant palette tables.
 
 - **Solar border.** `colors.toml`'s `hyprland_active_border` paints active
   windows with a 3-stop ray gradient (cadmium → yellow → umber gold), and
-  Omarchy regenerates the Hyprland config from it on install. Inactive windows
-  sit on warm earth. `hyprland.lua.example` keeps the optional `borderangle`
-  sweep and shadow tuning as a reference for local checkouts.
+  Omarchy regenerates the Hyprland config from it. Inactive windows sit on
+  warm earth.
 - **Shell chrome.** Hand-written `shell.toml` carries the same ray gradient
   onto bar, popups, notifications, launcher, menu, polkit, and lock surfaces.
 - **Icons / keyboard.** Yaru (`Yaru-yellow` on light) plus a `keyboard.rgb`
@@ -39,11 +38,10 @@ integrations. See `README.md` for the per-variant palette tables.
 
 ## Install paths
 
-`omarchy theme install <git-url>` drops `*.lua` from git-cloned themes and
-regenerates the Hyprland config from `colors.toml`, so the solar border
-gradient still applies. `hyprland.lua.example` documents the optional
-`borderangle` sweep and shadow tuning for a local checkout linked under
-`~/.config/omarchy/themes/` and applied with `omarchy theme set`. See
+`omarchy theme install <git-url>` regenerates the Hyprland config from
+`colors.toml`, so the solar border gradient applies without a Lua file in
+this repo. A local checkout linked under `~/.config/omarchy/themes/` and
+applied with `omarchy theme set` uses the same `colors.toml`. See
 `README.md`.
 
 ## Licensing split

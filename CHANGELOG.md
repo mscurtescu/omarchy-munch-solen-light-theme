@@ -4,9 +4,9 @@ Follows the theme payload in this repo; released by pushing to `master`.
 
 ## [Unreleased]
 
-- Drop `hyprland.lua` from the install payload: Omarchy regenerates the
-  Hyprland config from `colors.toml` for repo-installed themes. It stays as
-  `hyprland.lua.example` for local checkouts.
+- Drop `hyprland.lua` from the theme, including the `.example` reference.
+  Omarchy regenerates the Hyprland config from `colors.toml`, which still
+  paints the 3-stop ray gradient. A listed theme may not ship scripts.
 - Re-encode the three backgrounds as WebP (`-strip -resize '3840>' -quality 82`):
   the set drops from 6.6 MB to 3.7 MB, with `1-solen` alone going 4.5 MB → 2.4 MB.
 
