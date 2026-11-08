@@ -145,13 +145,19 @@ In the dark repo:
 mise install
 bd dolt pull
 bd hooks install --beads
+bd setup claude
+bd setup codex
 ```
 
 `mise install` provides `bd` 1.2.2. `bd dolt pull` fetches the issue
 database. `bd hooks install --beads` writes `.beads/hooks/` and sets
 `core.hooksPath` to that directory. Those scripts are gitignored.
-Commit, merge, checkout, and push in the dark repo then call Beads.
-Run `bd` from either checkout.
+`bd setup claude` writes `.claude/settings.json` and refreshes the Beads
+block in `CLAUDE.md`. `bd setup codex` writes `.codex/hooks.json`,
+refreshes `.agents/skills/beads/` and the Beads block in `AGENTS.md`,
+and keeps `hooks = true` in `.codex/config.toml`. The two JSON files are
+gitignored. `.codex/config.toml` stays tracked. Commit, merge, checkout,
+and push in the dark repo then call Beads. Run `bd` from either checkout.
 
 ## Releasing
 
